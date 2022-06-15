@@ -1,6 +1,7 @@
 ### Hello  👾
 
 My name is Alexandre and it's a pleasure to see you here
+
 I'm currently learning JavaScript so I created this repository so I can see my progress
 
 

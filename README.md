@@ -15,7 +15,7 @@ I hope to have your help
 * And 90's music 🎧
 
 ### Follow me on other social networks
-<a href="//">
+<a href="https://www.linkedin.com/in/alexandre-colpani/">
 <img align="left" alt="linkedin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
